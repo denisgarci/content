@@ -43,3 +43,6 @@ __MACOSX/
 
 # Test Notebook
 test.ipynb
+
+# Data for HW2
+data/
